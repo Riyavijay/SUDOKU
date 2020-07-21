@@ -1,1 +1,1 @@
-# SUDOKU
+# Sudoku in C language
